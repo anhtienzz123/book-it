@@ -1,0 +1,3 @@
+https://www.postgresql.org/docs/current/plpgsql-cursors.html
+
+https://github.com/hnasr/python_playground/tree/master/servervsclientcursor
